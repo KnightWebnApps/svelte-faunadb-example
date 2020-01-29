@@ -1,0 +1,5 @@
+/node_modules/
+/public/build/
+.netlify
+.DS_Store
+/functions/node_modules/
